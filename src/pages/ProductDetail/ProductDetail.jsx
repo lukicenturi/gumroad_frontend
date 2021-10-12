@@ -57,7 +57,7 @@ const ProductDetail = () => {
     setProduct(product);
   }
 
-  if (!product) return null;
+  if (!product) return null; 
 
   return (
     <>
